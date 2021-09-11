@@ -8,6 +8,10 @@ then run the run and set your BTC expected rate and alert message will be sent l
 #documentation
 ![document](https://user-images.githubusercontent.com/68633891/132948344-451b0937-45a9-47f5-b325-1e8eb8206355.png)
 
+
+
+
+
 #explanation
 initalially used nomic for getting latest value of BTC
 then checking if the value is exceeding the target value 
